@@ -22,13 +22,16 @@ A Tampermonkey userscript that enhances the **Hyperliquid** trade history by add
 
 ## Screenshots
 
+### After
+![After](https://raw.githubusercontent.com/0xmathisd/Hyperliquid-Trade-History-Enhancement/refs/heads/main/screenshots/after.gif)
+*Enhanced Trade History with Fees / Trade ratio, Cumulative PNL, and colored PnL.*
+
+![After](https://raw.githubusercontent.com/0xmathisd/Hyperliquid-Trade-History-Enhancement/refs/heads/main/screenshots/after_portfolio.png)
+
 ### Before
-![Before](screenshots/before.png)
+![Before](https://raw.githubusercontent.com/0xmathisd/Hyperliquid-Trade-History-Enhancement/refs/heads/main/screenshots/before_portfolio.png)
 *Trade History without Fees / Trade or Cumulative PNL columns.*
 
-### After
-![After](screenshots/after.png)
-*Enhanced Trade History with Fees / Trade ratio, Cumulative PNL, and colored PnL.*
 
 ---
 
